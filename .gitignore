@@ -1,0 +1,19 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# MATLAB recordings and data exports
+*.mat
+
+# macOS
+.DS_Store
+
+# .NET build output
+bin/
+obj/
+
+# VS Code local settings
+.vscode/
